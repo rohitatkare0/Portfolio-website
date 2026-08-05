@@ -5,9 +5,7 @@ A professional and responsive portfolio website built for an MCA student interes
 ## 🌐 Live Preview
 
 You can host this project using **GitHub Pages**.
-
-Example:
-https://github.com/rohitatkare0/Portfolio-website.git
+ https://github.com/rohitatkare0/rohitatkare0.git
 
 ---
 

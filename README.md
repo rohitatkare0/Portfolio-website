@@ -31,7 +31,7 @@ https://github.com/rohitatkare0/Portfolio-website.git
 
 ---
 ## 📸 Screenshots
-      assets/portfolio.jpg
+      assets/portfolio.jpg.png
 ## 📂 Project Structure
 
 ```text

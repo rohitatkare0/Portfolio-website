@@ -40,7 +40,6 @@ my-portfolio-website/
 ├── style.css
 ├── script.js
 ├── assets/
-│   ├── profile.jpg
-│   └── screenshots/
+│   ├── portfolio.jpg
 └── README.md
 ```

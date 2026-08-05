@@ -30,7 +30,8 @@ https://github.com/rohitatkare0/Portfolio-website.git
 - **JavaScript (Vanilla JS)**
 
 ---
-
+## 📸 Screenshots
+      assets/portfolio.jpg
 ## 📂 Project Structure
 
 ```text
